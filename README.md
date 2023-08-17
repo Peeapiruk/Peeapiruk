@@ -11,7 +11,7 @@ Full-Stack developer
 ### Skills
 
 <p align="left">
-ICON, ICON, ICON ICON ICON ICON ICON ICON ICON
+ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
 
 ### Socials
