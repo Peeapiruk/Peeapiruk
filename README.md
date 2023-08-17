@@ -27,9 +27,9 @@ ICON ICON ICON ICON ICON ICON ICON ICON ICON
 
 <a href="https://github.com/Peeapiruk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peeapiruk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-.javascript {
-@apply bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg')] dark:bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-dark.svg')];
-}
-.javascript.colored {
-@apply bg-[url('https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg')];
+{
+name: "JavaScript",
+path: "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg",
+iTag: "javascript",
+link: "https://www.javascript.com/",
 }
