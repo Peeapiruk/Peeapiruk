@@ -4,22 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack developer
 --------------------
 
-* 🌍  I'm based in Rayong, Thailand
-* 🖥️  See my portfolio at [My portfolio](http://aphirak)
-* ✉️  You can contact me at [apiruk.pee@gmail.com](mailto:apiruk.pee@gmail.com)
+* 🌍  I'm based in Rayong, Thailand
+* 🖥️  See my portfolio at [My portfolio](http://aphirak)
+* ✉️  You can contact me at [apiruk.pee@gmail.com](mailto:apiruk.pee@gmail.com)
 
 ### Skills
-
 
 <p align="left">
 ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Peeapiruk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
